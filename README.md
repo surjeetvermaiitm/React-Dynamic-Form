@@ -1,4 +1,4 @@
-# React-Redux-Assignment
+# React-Redux-Dynamic Form
 
 Hosted [Website Link](https://surjeet-dynamic-react-redux-form-0.netlify.app/) for [API](https://run.mocky.io/v3/a55c4590-c635-49af-a01f-7ee2e6a85669): https://surjeet-dynamic-react-redux-form-0.netlify.app
 
